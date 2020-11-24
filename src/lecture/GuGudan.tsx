@@ -17,11 +17,12 @@ const GuGudan = () => {
             setSecond(Math.ceil(Math.random() * 9))
             input && input.focus();
         } else {
-            setResult("땡 정답은 "+ first * second);
+            setResult("땡 정답은 " + first * second);
             setValue('');
             input!.focus();
         }
     }
+
     return (
         <>
             <div>{first} 곱하기 {second}?</div>

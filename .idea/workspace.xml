@@ -11,8 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4773eb2c-a945-4c16-88d6-1bf76d54c04a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lecture/WordRelay.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture/WordRelayClass.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture/GuGudan.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture/GuGudan.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lecture/GuGudanClass.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture/GuGudanClass.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
