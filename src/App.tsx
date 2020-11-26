@@ -4,11 +4,12 @@ import './App.css';
 import {GuGudan} from "./lecture/GuGudan";
 import {GuGudanClass} from "./lecture/GuGudanClass";
 import {WordRelay} from "./lecture/WordRelay";
+import {NumberBaseball} from "./lecture/NumberBaseball";
 
 function App() {
   return (
     <div className="App">
-      <WordRelay/>
+      <NumberBaseball/>
     </div>
   );
 }
